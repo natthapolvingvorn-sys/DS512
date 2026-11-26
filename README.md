@@ -54,6 +54,7 @@ Student Performance Dataset
 •	Writing Score
 แหล่งดาวน์โหลด
 •	Kaggle Student Performance Dataset
+Link : https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?fbclid=IwY2xjawV0hxhleHRuA2FlbQIxMABwZG9mBWJyaWQRMW8ybm5ycEk0OUR2TDMzSzlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfM-hTVzYmhYGygorsBj4R6cPtwLA8bP0f37ZGwsVLoMlsz11nZR0avv2TlsY_aem_cmGhA2ZAR4RZ1ZPQrFwJCA
 
 # 5. Data Dictionary
 ชื่อตัวแปร	ประเภทข้อมูล	รายละเอียด
